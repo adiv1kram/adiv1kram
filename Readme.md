@@ -26,7 +26,6 @@
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adiv1kram&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
   <img src="https://leetcard.jacoblin.cool/AdiVikramSingh?theme=dark&font=source_code_pro&ext=activity" height="150"/>
 </p>
 
